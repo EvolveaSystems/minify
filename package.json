@@ -17,7 +17,6 @@
     "test-ci": "npm run bootstrap && npm run build && npm run coverage",
     "updated": "lerna updated",
     "watch": "gulp watch",
-    "preinstall": "node preinstall.js"
   },
   "devDependencies": {
     "@babel/core": "^7.17.0",
